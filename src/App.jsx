@@ -7,7 +7,7 @@ const App = () => {
   const part2 = 'CSIT327 Information Management 2 - '
   const exercises2 = 3
 
-  const part3 = 'IT365 Data Analytics - '
+  const part3 = 'IT365 Data Analytics 1 - '
   const exercises3 = 3
 
   return (
